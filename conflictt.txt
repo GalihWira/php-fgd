@@ -1,0 +1,3 @@
+nama: galih
+kampus: universitas udayana
+hobi: pushrank

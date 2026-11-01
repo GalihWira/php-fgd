@@ -1,4 +1,4 @@
 nama: galih
-kampus: universitas udayana
+kampus: universitas gajah mada
 hobi: tidur
 hobi: voli

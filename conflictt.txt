@@ -1,3 +1,4 @@
 nama: galih
 kampus: universitas udayana
+hobi: tidur
 hobi: main bola
